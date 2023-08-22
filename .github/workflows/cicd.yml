@@ -51,5 +51,5 @@ jobs:
             sudo apt-get -y update
             sudo apt-get install -y nginx
             cd /home/ubuntu/cicd
-            git clone https://github.com/KHUSNIDDIN989/ci-cd.git
+            git pull https://github.com/KHUSNIDDIN989/ci-cd.git
             
