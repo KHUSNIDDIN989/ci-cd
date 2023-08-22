@@ -53,6 +53,6 @@ jobs:
             sudo systemctl start nginx
             sudo systemctl enable nginx
             cd /home/ubuntu/cicd
-            git pull origin main
+            git clone https://github.com/KHUSNIDDIN989/ci-cd.git
             npm install
             npm run dev
