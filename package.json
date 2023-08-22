@@ -1,0 +1,20 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "dev": "node callback.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KHUSNIDDIN989/ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KHUSNIDDIN989/ci-cd/issues"
+  },
+  "homepage": "https://github.com/KHUSNIDDIN989/ci-cd#readme"
+}
