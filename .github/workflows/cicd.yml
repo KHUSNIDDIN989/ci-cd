@@ -50,4 +50,4 @@ jobs:
           script: |
             cd /home/ubuntu/cicd
             git pull https://github.com/KHUSNIDDIN989/ci-cd.git
-            
+            npm run dev
