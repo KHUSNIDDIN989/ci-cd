@@ -50,8 +50,6 @@ jobs:
           script: |
             sudo apt-get -y update
             sudo apt-get install -y nginx
-            sudo systemctl start nginx
-            sudo systemctl enable nginx
             cd /home/ubuntu/cicd
             git clone https://github.com/KHUSNIDDIN989/ci-cd.git
             
